@@ -1,0 +1,9 @@
+About Dataset
+Context
+What makes us, humans, able to tell apart two songs of different genres? Maybe you have
+ever been in the diffcult situation to explain show it sounds the music style that you like
+to someone. Then, could an automatic genre classifcation be possible?
+
+Content
+Each row is an electronic music song. The dataset contains 100 song for each genre among 23 electronic music genres, they were the top (100) songs of their genres
+ on November 2016. The 71 columns are audio features extracted of a two random minutes sample of the file audio
